@@ -1,0 +1,1 @@
+nested loop for better coding
